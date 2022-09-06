@@ -3,5 +3,6 @@
         "activityBar.background": "#342749",
         "titleBar.activeBackground": "#493666",
         "titleBar.activeForeground": "#FBFBFD"
-    }
+    },
+    "nuxt.isNuxtApp": true
 }
